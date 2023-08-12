@@ -4,7 +4,13 @@ A social platform developed by our team specifically for GreenFox students and e
 ## Used Technology
 Front-end:
 
-The project utilizes a tech stack that combines HTML, CSS, TypeScript, Bootstrap and Angular for the front-end, delivering an engaging user interface. 
+The project utilizes a tech stack that combines 
+HTML, 
+CSS, 
+TypeScript, 
+Bootstrap and 
+Angular 
+for the front-end, delivering an engaging user interface. 
 
 Back-end
 
