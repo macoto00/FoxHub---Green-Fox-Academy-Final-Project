@@ -2,7 +2,7 @@
 A social platform developed by our team specifically for Green Fox Academy needs. This comprehensive guide aims to familiarize you with the platform's features, functionality, and architecture. Whether you're a developer, user, or administrator, this documentation will serve as your go-to resource for understanding and utilizing FoxHub to its fullest potential.
 
 ## Used Technology
-## Front-end:
+## Front-end
 
 The project utilizes a tech stack that combines 
 HTML, CSS, TypeScript, Bootstrap and Angular for the front-end, delivering an engaging user interface. 
