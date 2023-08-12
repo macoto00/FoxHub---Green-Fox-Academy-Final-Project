@@ -59,7 +59,7 @@ In our profile page the main component id the profile picture and if you click o
 ## Cart page
 ![Snímek obrazovky 2023-08-12 101436](https://github.com/macoto00/FoxHub-Green-Fox-Academy-Final-Project/assets/117540231/37aec0d4-edb3-442e-be63-b05e0fbd0b46)
 
-Because the primary aim of the project was to create a digital maketplace where eager headhunters or tech leads could find a perfect match to their work environment, add the people thei like to the cart and checkout to contact them - we need a cart.
+Because the primary aim of the project was to create a digital maketplace where eager headhunters or tech leads could find a perfect match to their work environment, add the people they like to the cart and checkout to contact them - we need a cart.
 
 ## News page
 ![Snímek obrazovky 2023-08-12 101515](https://github.com/macoto00/FoxHub-Green-Fox-Academy-Final-Project/assets/117540231/78d4c2ab-e52f-4f92-9a77-baebce162806)
