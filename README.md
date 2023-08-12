@@ -1,15 +1,21 @@
 # FoxHub
-A social platform developed by our team specifically for GreenFox students and enthusiasts. This comprehensive guide aims to familiarize you with the platform's features, functionality, and architecture. Whether you're a developer, user, or administrator, this documentation will serve as your go-to resource for understanding and utilizing FoxHub to its fullest potential.
+A social platform developed by our team specifically for Green Fox Academy needs. This comprehensive guide aims to familiarize you with the platform's features, functionality, and architecture. Whether you're a developer, user, or administrator, this documentation will serve as your go-to resource for understanding and utilizing FoxHub to its fullest potential.
 
 ## Used Technology
-Front-end:
+## Front-end:
 
 The project utilizes a tech stack that combines 
 HTML, CSS, TypeScript, Bootstrap and Angular for the front-end, delivering an engaging user interface. 
 
-Back-end
+## Back-end
 
 Back-end functionalities are powered by Java, Spring Boot, and Spring Security with JWT token integration, ensuring robust security measures. Data management is handled by MySQL, while email capabilities facilitate user communication and verification. Thorough unit testing and mock tests guarantee code reliability and functionality. This cohesive blend of technologies creates a secure, dynamic, and user-friendly application.
+
+Version control system GitHub was used throughout the work.
+
+## Development
+
+During the development of the application, we simulated a working environment under the supervision of the tech lead. The work was divided into weekly sprints, including SCRUM master and meetings with retrospective, tasks were tracked using the Jira application, all of this amidst initial and changing requirements from the product owner. The time to develop this aaplication was about 3 - 4 weeks.
 
 The application is fully responsive an all devices (web, tablet, mobile).
 
