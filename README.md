@@ -15,7 +15,7 @@ Version control system GitHub was used throughout the work.
 
 ## Development
 
-During the development of the application, we simulated a working environment under the supervision of the tech lead. The work was divided into weekly sprints, including SCRUM master and meetings with retrospective, tasks were tracked using the Jira application, all of this amidst initial and changing requirements from the product owner. The time to develop this aaplication was about 3 - 4 weeks.
+During the development of the application, we simulated a working environment under the supervision of the tech lead. The work was divided into weekly sprints, including SCRUM master and meetings with retrospective, tasks were tracked using the Jira application, all of this amidst initial and changing requirements from the product owner. The time to develop this aaplication was about 4 weeks.
 
 The application is fully responsive an all devices (web, tablet, mobile).
 
