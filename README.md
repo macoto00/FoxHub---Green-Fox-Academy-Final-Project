@@ -2,7 +2,13 @@
 A social platform developed by our team specifically for GreenFox students and enthusiasts. This comprehensive guide aims to familiarize you with the platform's features, functionality, and architecture. Whether you're a developer, user, or administrator, this documentation will serve as your go-to resource for understanding and utilizing FoxHub to its fullest potential.
 
 ## Used Technology
-The project utilizes a tech stack that combines HTML, CSS, TypeScript, Bootstrap and Angular for the front-end, delivering an engaging user interface. Back-end functionalities are powered by Java, Spring Boot, and Spring Security with JWT token integration, ensuring robust security measures. Data management is handled by MySQL, while email capabilities facilitate user communication and verification. Thorough unit testing and mock tests guarantee code reliability and functionality. This cohesive blend of technologies creates a secure, dynamic, and user-friendly application.
+Front-end:
+
+The project utilizes a tech stack that combines HTML, CSS, TypeScript, Bootstrap and Angular for the front-end, delivering an engaging user interface. 
+
+Back-end
+
+Back-end functionalities are powered by Java, Spring Boot, and Spring Security with JWT token integration, ensuring robust security measures. Data management is handled by MySQL, while email capabilities facilitate user communication and verification. Thorough unit testing and mock tests guarantee code reliability and functionality. This cohesive blend of technologies creates a secure, dynamic, and user-friendly application.
 
 The application is fully responsive an all devices (web, tablet, mobile).
 
