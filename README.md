@@ -17,7 +17,7 @@ Version control system GitHub was used throughout the work.
 
 During the development of the application, we simulated a working environment under the supervision of the tech lead. The work was divided into weekly sprints, including SCRUM master and meetings with retrospective, tasks were tracked using the Jira application, all of this amidst initial and changing requirements from the product owner. The time to develop this aplication was about 4 weeks.
 
-The application is fully responsive an all devices (web, tablet, mobile).
+The application is fully responsive on all devices (web, tablet, mobile).
 
 ## See at Link
 http://foxhub.gfapp.eu/
