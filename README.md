@@ -10,10 +10,10 @@ The application is fully responsive an all devices (web, tablet, mobile).
 http://foxhub.gfapp.eu/
 
 ## Platform Overview:
-FoxHub provides a range of features and functionalities tailored to different user roles, including admins, users, and visitors. Let's explore each role in detail!
+FoxHub provides a range of features and functionalities tailored to different user roles, including admins and users. Let's explore!
 
 ## First things first
-Let us see how your About pagewhere you can find a brief description of the application.
+Let us see the About page where you can find a brief description of the application.
 
 ![Snímek obrazovky 2023-08-12 101527](https://github.com/macoto00/FoxHub-Green-Fox-Academy-Final-Project/assets/117540231/ca509b4f-0761-41e9-a4d0-c4f7f5d7328a)
 
