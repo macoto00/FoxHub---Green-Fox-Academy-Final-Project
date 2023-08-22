@@ -20,7 +20,7 @@ During the development of the application, we simulated a working environment un
 The application is fully responsive on all devices (web, tablet, mobile).
 
 ## See at Link
-http://foxhub.gfapp.eu/
+https://foxhub.gfapp.eu/
 
 ## Platform Overview:
 FoxHub provides a range of features and functionalities tailored to different user roles, including admins and users. Let's explore!
