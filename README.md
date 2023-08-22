@@ -1,5 +1,5 @@
 # FoxHub
-A social platform developed by our team specifically for Green Fox Academy needs. This comprehensive guide aims to familiarize you with the platform's features, functionality, and architecture. Whether you're a developer, user, or administrator, this documentation will serve as your go-to resource for understanding and utilizing FoxHub to its fullest potential.
+A social platform developed by our team specifically for Green Fox Academy needs. This comprehensive guide aims to familiarize you with the platform's features, functionality, and architecture. 
 
 # Used Technology
 ## Front-end
